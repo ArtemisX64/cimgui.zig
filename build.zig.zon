@@ -23,7 +23,7 @@
             .hash = "vulkan_zig-1.0.0-p2wg3u-gFgFV6Fc3yJgM1BgxizkA6gvhNm3lgJxGH-Tc",
         },
     },
-    .minimum_zig_version = "0.15.1",
+   .minimum_zig_version = "0.16.0-dev.191+9fa2394f8",
     .fingerprint = 0x4e4978d2929b7bd9,
     .paths = .{
         "build.zig",
